@@ -1,5 +1,0 @@
-Python 3.10
-Django 5.2.15
-Django REST Framework 3.16.0
-SQLite3 (database)
-Postman (API testing tool)
